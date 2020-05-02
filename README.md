@@ -28,7 +28,7 @@ CieMeS is built using **python3**, you will need python3 to run this tool and is
 
 It is fairly easy to use CMSeeK, just make sure you have python3 and git (just for cloning the repo) installed and use the following commands:
 
-- git clone `https://github.com/cantixcr3w/CieMeS`
+- git clone `https://github.com/antuwarnet/CieMeS`
 - cd CieMeS
 - pip/pip3 install -r requirements.txt
 
